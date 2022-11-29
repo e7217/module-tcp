@@ -1,2 +1,2 @@
-# tcp-server
-Golang 기반의 TCP server
+# module-tcp
+Golang 기반의 TCP-Module
